@@ -12,3 +12,4 @@
 /Users/macbook/RiderProjects/csharp_base/01. Intro/obj/Debug/net8.0/01. Intro.pdb
 /Users/macbook/RiderProjects/csharp_base/01. Intro/obj/Debug/net8.0/01. Intro.genruntimeconfig.cache
 /Users/macbook/RiderProjects/csharp_base/01. Intro/obj/Debug/net8.0/ref/01. Intro.dll
+/Users/macbook/RiderProjects/csharp_base/01. Intro/obj/Debug/net8.0/01. Intro.sourcelink.json

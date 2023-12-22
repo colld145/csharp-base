@@ -1,0 +1,15 @@
+/Users/macbook/RiderProjects/csharp_base/02. String/bin/Debug/net8.0/02. String
+/Users/macbook/RiderProjects/csharp_base/02. String/bin/Debug/net8.0/02. String.deps.json
+/Users/macbook/RiderProjects/csharp_base/02. String/bin/Debug/net8.0/02. String.runtimeconfig.json
+/Users/macbook/RiderProjects/csharp_base/02. String/bin/Debug/net8.0/02. String.dll
+/Users/macbook/RiderProjects/csharp_base/02. String/bin/Debug/net8.0/02. String.pdb
+/Users/macbook/RiderProjects/csharp_base/02. String/obj/Debug/net8.0/02. String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/RiderProjects/csharp_base/02. String/obj/Debug/net8.0/02. String.AssemblyInfoInputs.cache
+/Users/macbook/RiderProjects/csharp_base/02. String/obj/Debug/net8.0/02. String.AssemblyInfo.cs
+/Users/macbook/RiderProjects/csharp_base/02. String/obj/Debug/net8.0/02. String.csproj.CoreCompileInputs.cache
+/Users/macbook/RiderProjects/csharp_base/02. String/obj/Debug/net8.0/02. String.sourcelink.json
+/Users/macbook/RiderProjects/csharp_base/02. String/obj/Debug/net8.0/02. String.dll
+/Users/macbook/RiderProjects/csharp_base/02. String/obj/Debug/net8.0/refint/02. String.dll
+/Users/macbook/RiderProjects/csharp_base/02. String/obj/Debug/net8.0/02. String.pdb
+/Users/macbook/RiderProjects/csharp_base/02. String/obj/Debug/net8.0/02. String.genruntimeconfig.cache
+/Users/macbook/RiderProjects/csharp_base/02. String/obj/Debug/net8.0/ref/02. String.dll
